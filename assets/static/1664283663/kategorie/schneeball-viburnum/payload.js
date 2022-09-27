@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/kategorie/schneeball-viburnum", {data:[{_img:{}}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/kategorie/japanische-stechpalme-ilex-crenata", {data:[{_img:{}}],fetch:{},mutations:void 0});

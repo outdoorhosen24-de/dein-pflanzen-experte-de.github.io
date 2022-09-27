@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/kategorie/lampenputzergras-pennisetum", {data:[{_img:{}}],fetch:{},mutations:void 0});
