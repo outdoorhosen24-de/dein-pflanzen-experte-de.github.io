@@ -1,19 +1,5 @@
 [
     {
-        "key": "tesa",
-        "name": "Tesa",
-        "slug": "tesa",
-        "productCategory": "Tesa",
-        "localThumb": "/assets/images/hersteller/tesa.webp"
-    },
-    {
-        "key": "cocoon",
-        "name": "Cocoon",
-        "slug": "cocoon",
-        "productCategory": "Cocoon",
-        "localThumb": "/assets/images/hersteller/cocoon.webp"
-    },
-    {
         "key": "sonstige",
         "name": "Sonstige",
         "slug": "sonstige",
@@ -21,11 +7,32 @@
         "localThumb": "/assets/images/hersteller/sonstige.webp"
     },
     {
-        "key": "gardinia",
-        "name": "Gardinia",
-        "slug": "gardinia",
-        "productCategory": "Gardinia",
-        "localThumb": "/assets/images/hersteller/gardinia.webp"
+        "key": "helix",
+        "name": "Helix",
+        "slug": "helix",
+        "productCategory": "Helix",
+        "localThumb": "/assets/images/hersteller/helix.webp"
+    },
+    {
+        "key": "obi living garden",
+        "name": "OBI Living Garden",
+        "slug": "obi-living-garden",
+        "productCategory": "OBI Living Garden",
+        "localThumb": "/assets/images/hersteller/obi-living-garden.webp"
+    },
+    {
+        "key": "grow by obi & pottburri",
+        "name": "GROW by OBI & Pottburri",
+        "slug": "grow-by-obi-pottburri",
+        "productCategory": "GROW by OBI & Pottburri",
+        "localThumb": "/assets/images/hersteller/grow-by-obi-pottburri.webp"
+    },
+    {
+        "key": "compo",
+        "name": "Compo",
+        "slug": "compo",
+        "productCategory": "Compo",
+        "localThumb": "/assets/images/hersteller/compo.webp"
     },
     {
         "key": "obi",
@@ -35,52 +42,52 @@
         "localThumb": "/assets/images/hersteller/obi.webp"
     },
     {
-        "key": "moondream",
-        "name": "Moondream",
-        "slug": "moondream",
-        "productCategory": "Moondream",
-        "localThumb": "/assets/images/hersteller/moondream.webp"
+        "key": "grow by obi",
+        "name": "Grow by OBI",
+        "slug": "grow-by-obi",
+        "productCategory": "Grow by OBI",
+        "localThumb": "/assets/images/hersteller/grow-by-obi.webp"
     },
     {
-        "key": "mydeco",
-        "name": "mydeco",
-        "slug": "mydeco",
-        "productCategory": "mydeco",
-        "localThumb": "/assets/images/hersteller/mydeco.webp"
+        "key": "wolf garten",
+        "name": "Wolf Garten",
+        "slug": "wolf-garten",
+        "productCategory": "Wolf Garten",
+        "localThumb": "/assets/images/hersteller/wolf-garten.webp"
     },
     {
-        "key": "thermacell",
-        "name": "Thermacell",
-        "slug": "thermacell",
-        "productCategory": "Thermacell",
-        "localThumb": "/assets/images/hersteller/thermacell.webp"
+        "key": "blu",
+        "name": "Blu",
+        "slug": "blu",
+        "productCategory": "Blu",
+        "localThumb": "/assets/images/hersteller/blu.webp"
     },
     {
-        "key": "cmi",
-        "name": "CMI",
-        "slug": "cmi",
-        "productCategory": "CMI",
-        "localThumb": "/assets/images/hersteller/cmi.webp"
+        "key": "kiepenkerl",
+        "name": "Kiepenkerl",
+        "slug": "kiepenkerl",
+        "productCategory": "Kiepenkerl",
+        "localThumb": "/assets/images/hersteller/kiepenkerl.webp"
     },
     {
-        "key": "guttagliss",
-        "name": "guttagliss",
-        "slug": "guttagliss",
-        "productCategory": "guttagliss",
-        "localThumb": "/assets/images/hersteller/guttagliss.webp"
+        "key": "sperli",
+        "name": "Sperli",
+        "slug": "sperli",
+        "productCategory": "Sperli",
+        "localThumb": "/assets/images/hersteller/sperli.webp"
     },
     {
-        "key": "windhager",
-        "name": "Windhager",
-        "slug": "windhager",
-        "productCategory": "Windhager",
-        "localThumb": "/assets/images/hersteller/windhager.webp"
+        "key": "pegasus",
+        "name": "Pegasus",
+        "slug": "pegasus",
+        "productCategory": "Pegasus",
+        "localThumb": "/assets/images/hersteller/pegasus.webp"
     },
     {
-        "key": "velux",
-        "name": "Velux",
-        "slug": "velux",
-        "productCategory": "Velux",
-        "localThumb": "/assets/images/hersteller/velux.webp"
+        "key": "westland",
+        "name": "Westland",
+        "slug": "westland",
+        "productCategory": "Westland",
+        "localThumb": "/assets/images/hersteller/westland.webp"
     }
 ]

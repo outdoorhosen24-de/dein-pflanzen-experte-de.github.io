@@ -1,107 +1,1059 @@
 [
     {
-        "key": "insektenschutz",
-        "name": "Insektenschutz",
-        "slug": "insektenschutz",
-        "productCategory": "Insektenschutz",
+        "key": "sämereien & blumenzwiebeln",
+        "name": "Sämereien & Blumenzwiebeln",
+        "slug": "samereien-blumenzwiebeln",
+        "productCategory": "Sämereien & Blumenzwiebeln",
         "subCategories": []
     },
     {
-        "key": "fliegengittertüren",
-        "name": "Fliegengittertüren",
-        "slug": "fliegengitterturen",
-        "productCategory": "Fliegengittertüren",
+        "key": "rasensamen",
+        "name": "Rasensamen",
+        "slug": "rasensamen",
+        "productCategory": "Rasensamen",
         "subCategories": []
     },
     {
-        "key": "plissees",
-        "name": "Plissees",
-        "slug": "plissees",
-        "productCategory": "Plissees",
+        "key": "heckenpflanzen",
+        "name": "Heckenpflanzen",
+        "slug": "heckenpflanzen",
+        "productCategory": "Heckenpflanzen",
         "subCategories": []
     },
     {
-        "key": "insektenschutzrahmen",
-        "name": "Insektenschutzrahmen",
-        "slug": "insektenschutzrahmen",
-        "productCategory": "Insektenschutzrahmen",
+        "key": "efeuhecke",
+        "name": "Efeuhecke",
+        "slug": "efeuhecke",
+        "productCategory": "Efeuhecke",
         "subCategories": []
     },
     {
-        "key": "stil- & seilspanngarnituren",
-        "name": "Stil- & Seilspanngarnituren",
-        "slug": "stil-seilspanngarnituren",
-        "productCategory": "Stil- & Seilspanngarnituren",
+        "key": "bodendecker",
+        "name": "Bodendecker",
+        "slug": "bodendecker",
+        "productCategory": "Bodendecker",
         "subCategories": []
     },
     {
-        "key": "lamellenvorhänge",
-        "name": "Lamellenvorhänge",
-        "slug": "lamellenvorhange",
-        "productCategory": "Lamellenvorhänge",
+        "key": "immergrün (vinca minor)",
+        "name": "Immergrün (Vinca minor)",
+        "slug": "immergrun-vinca-minor",
+        "productCategory": "Immergrün (Vinca minor)",
         "subCategories": []
     },
     {
-        "key": "rollos & raffrollos",
-        "name": "Rollos & Raffrollos",
-        "slug": "rollos-raffrollos",
-        "productCategory": "Rollos & Raffrollos",
+        "key": "rollrasen",
+        "name": "Rollrasen",
+        "slug": "rollrasen",
+        "productCategory": "Rollrasen",
         "subCategories": []
     },
     {
-        "key": "jalousien",
-        "name": "Jalousien",
-        "slug": "jalousien",
-        "productCategory": "Jalousien",
+        "key": "stauden",
+        "name": "Stauden",
+        "slug": "stauden",
+        "productCategory": "Stauden",
         "subCategories": []
     },
     {
-        "key": "gardinenschienen",
-        "name": "Gardinenschienen",
-        "slug": "gardinenschienen",
-        "productCategory": "Gardinenschienen",
+        "key": "lupine",
+        "name": "Lupine",
+        "slug": "lupine",
+        "productCategory": "Lupine",
         "subCategories": []
     },
     {
-        "key": "fenstervorhänge",
-        "name": "Fenstervorhänge",
-        "slug": "fenstervorhange",
-        "productCategory": "Fenstervorhänge",
+        "key": "gräser",
+        "name": "Gräser",
+        "slug": "graser",
+        "productCategory": "Gräser",
         "subCategories": []
     },
     {
-        "key": "vitragestangen",
-        "name": "Vitragestangen",
-        "slug": "vitragestangen",
-        "productCategory": "Vitragestangen",
+        "key": "weitere gräser",
+        "name": "Weitere Gräser",
+        "slug": "weitere-graser",
+        "productCategory": "Weitere Gräser",
         "subCategories": []
     },
     {
-        "key": "insektenschutzzubehör",
-        "name": "Insektenschutzzubehör",
-        "slug": "insektenschutzzubehor",
-        "productCategory": "Insektenschutzzubehör",
+        "key": "lampenputzergras (pennisetum)",
+        "name": "Lampenputzergras (Pennisetum)",
+        "slug": "lampenputzergras-pennisetum",
+        "productCategory": "Lampenputzergras (Pennisetum)",
         "subCategories": []
     },
     {
-        "key": "türdichtungen & fensterdichtungen",
-        "name": "Türdichtungen & Fensterdichtungen",
-        "slug": "turdichtungen-fensterdichtungen",
-        "productCategory": "Türdichtungen & Fensterdichtungen",
+        "key": "chinaschilf (miscanthus)",
+        "name": "Chinaschilf (Miscanthus)",
+        "slug": "chinaschilf-miscanthus",
+        "productCategory": "Chinaschilf (Miscanthus)",
         "subCategories": []
     },
     {
-        "key": "fliegengitterfenster",
-        "name": "Fliegengitterfenster",
-        "slug": "fliegengitterfenster",
-        "productCategory": "Fliegengitterfenster",
+        "key": "steppensalbei",
+        "name": "Steppensalbei",
+        "slug": "steppensalbei",
+        "productCategory": "Steppensalbei",
         "subCategories": []
     },
     {
-        "key": "insektenschutznetze",
-        "name": "Insektenschutznetze",
-        "slug": "insektenschutznetze",
-        "productCategory": "Insektenschutznetze",
+        "key": "kokardenblume",
+        "name": "Kokardenblume",
+        "slug": "kokardenblume",
+        "productCategory": "Kokardenblume",
+        "subCategories": []
+    },
+    {
+        "key": "zimmerpflanzen",
+        "name": "Zimmerpflanzen",
+        "slug": "zimmerpflanzen",
+        "productCategory": "Zimmerpflanzen",
+        "subCategories": []
+    },
+    {
+        "key": "grünpflanzen",
+        "name": "Grünpflanzen",
+        "slug": "grunpflanzen",
+        "productCategory": "Grünpflanzen",
+        "subCategories": []
+    },
+    {
+        "key": "weitere grünpflanzen",
+        "name": "Weitere Grünpflanzen",
+        "slug": "weitere-grunpflanzen",
+        "productCategory": "Weitere Grünpflanzen",
+        "subCategories": []
+    },
+    {
+        "key": "balkonpflanzen & terrassenpflanzen",
+        "name": "Balkonpflanzen & Terrassenpflanzen",
+        "slug": "balkonpflanzen-terrassenpflanzen",
+        "productCategory": "Balkonpflanzen & Terrassenpflanzen",
+        "subCategories": []
+    },
+    {
+        "key": "kübelpflanzen",
+        "name": "Kübelpflanzen",
+        "slug": "kubelpflanzen",
+        "productCategory": "Kübelpflanzen",
+        "subCategories": []
+    },
+    {
+        "key": "weitere kübelpflanzen",
+        "name": "Weitere Kübelpflanzen",
+        "slug": "weitere-kubelpflanzen",
+        "productCategory": "Weitere Kübelpflanzen",
+        "subCategories": []
+    },
+    {
+        "key": "bepflanzte schalen für innen",
+        "name": "Bepflanzte Schalen für Innen",
+        "slug": "bepflanzte-schalen-fur-innen",
+        "productCategory": "Bepflanzte Schalen für Innen",
+        "subCategories": []
+    },
+    {
+        "key": "palmen",
+        "name": "Palmen",
+        "slug": "palmen",
+        "productCategory": "Palmen",
+        "subCategories": []
+    },
+    {
+        "key": "zimmerpalmen",
+        "name": "Zimmerpalmen",
+        "slug": "zimmerpalmen",
+        "productCategory": "Zimmerpalmen",
+        "subCategories": []
+    },
+    {
+        "key": "weitere balkonpflanzen & terrassenpflanzen",
+        "name": "Weitere Balkonpflanzen & Terrassenpflanzen",
+        "slug": "weitere-balkonpflanzen-terrassenpflanzen",
+        "productCategory": "Weitere Balkonpflanzen & Terrassenpflanzen",
+        "subCategories": []
+    },
+    {
+        "key": "obstpflanzen & gemüsepflanzen",
+        "name": "Obstpflanzen & Gemüsepflanzen",
+        "slug": "obstpflanzen-gemusepflanzen",
+        "productCategory": "Obstpflanzen & Gemüsepflanzen",
+        "subCategories": []
+    },
+    {
+        "key": "gemüsepflanzen",
+        "name": "Gemüsepflanzen",
+        "slug": "gemusepflanzen",
+        "productCategory": "Gemüsepflanzen",
+        "subCategories": []
+    },
+    {
+        "key": "weitere gemüsearten",
+        "name": "Weitere Gemüsearten",
+        "slug": "weitere-gemusearten",
+        "productCategory": "Weitere Gemüsearten",
+        "subCategories": []
+    },
+    {
+        "key": "lavendel",
+        "name": "Lavendel",
+        "slug": "lavendel",
+        "productCategory": "Lavendel",
+        "subCategories": []
+    },
+    {
+        "key": "bambus",
+        "name": "Bambus",
+        "slug": "bambus",
+        "productCategory": "Bambus",
+        "subCategories": []
+    },
+    {
+        "key": "sträucher",
+        "name": "Sträucher",
+        "slug": "straucher",
+        "productCategory": "Sträucher",
+        "subCategories": []
+    },
+    {
+        "key": "weitere sträucher",
+        "name": "Weitere Sträucher",
+        "slug": "weitere-straucher",
+        "productCategory": "Weitere Sträucher",
+        "subCategories": []
+    },
+    {
+        "key": "drachenbäume (dracaena)",
+        "name": "Drachenbäume (Dracaena)",
+        "slug": "drachenbaume-dracaena",
+        "productCategory": "Drachenbäume (Dracaena)",
+        "subCategories": []
+    },
+    {
+        "key": "kirschlorbeer",
+        "name": "Kirschlorbeer",
+        "slug": "kirschlorbeer",
+        "productCategory": "Kirschlorbeer",
+        "subCategories": []
+    },
+    {
+        "key": "portugiesischer kirschlorbeer",
+        "name": "Portugiesischer Kirschlorbeer",
+        "slug": "portugiesischer-kirschlorbeer",
+        "productCategory": "Portugiesischer Kirschlorbeer",
+        "subCategories": []
+    },
+    {
+        "key": "buche",
+        "name": "Buche",
+        "slug": "buche",
+        "productCategory": "Buche",
+        "subCategories": []
+    },
+    {
+        "key": "rotbuche",
+        "name": "Rotbuche",
+        "slug": "rotbuche",
+        "productCategory": "Rotbuche",
+        "subCategories": []
+    },
+    {
+        "key": "glanzmispel (photinia)",
+        "name": "Glanzmispel (Photinia)",
+        "slug": "glanzmispel-photinia",
+        "productCategory": "Glanzmispel (Photinia)",
+        "subCategories": []
+    },
+    {
+        "key": "lebensbaum (thuja)",
+        "name": "Lebensbaum (Thuja)",
+        "slug": "lebensbaum-thuja",
+        "productCategory": "Lebensbaum (Thuja)",
+        "subCategories": []
+    },
+    {
+        "key": "lebensbaum smaragd",
+        "name": "Lebensbaum Smaragd",
+        "slug": "lebensbaum-smaragd",
+        "productCategory": "Lebensbaum Smaragd",
+        "subCategories": []
+    },
+    {
+        "key": "berberitze (berberis)",
+        "name": "Berberitze (Berberis)",
+        "slug": "berberitze-berberis",
+        "productCategory": "Berberitze (Berberis)",
+        "subCategories": []
+    },
+    {
+        "key": "kirschlorbeer caucasica",
+        "name": "Kirschlorbeer Caucasica",
+        "slug": "kirschlorbeer-caucasica",
+        "productCategory": "Kirschlorbeer Caucasica",
+        "subCategories": []
+    },
+    {
+        "key": "lebensbaum brabant",
+        "name": "Lebensbaum Brabant",
+        "slug": "lebensbaum-brabant",
+        "productCategory": "Lebensbaum Brabant",
+        "subCategories": []
+    },
+    {
+        "key": "kirschlorbeer novita",
+        "name": "Kirschlorbeer Novita",
+        "slug": "kirschlorbeer-novita",
+        "productCategory": "Kirschlorbeer Novita",
+        "subCategories": []
+    },
+    {
+        "key": "scheinzypressen",
+        "name": "Scheinzypressen",
+        "slug": "scheinzypressen",
+        "productCategory": "Scheinzypressen",
+        "subCategories": []
+    },
+    {
+        "key": "blaue scheinzypressen",
+        "name": "Blaue Scheinzypressen",
+        "slug": "blaue-scheinzypressen",
+        "productCategory": "Blaue Scheinzypressen",
+        "subCategories": []
+    },
+    {
+        "key": "liguster",
+        "name": "Liguster",
+        "slug": "liguster",
+        "productCategory": "Liguster",
+        "subCategories": []
+    },
+    {
+        "key": "eibe (taxus)",
+        "name": "Eibe (Taxus)",
+        "slug": "eibe-taxus",
+        "productCategory": "Eibe (Taxus)",
+        "subCategories": []
+    },
+    {
+        "key": "hainbuche",
+        "name": "Hainbuche",
+        "slug": "hainbuche",
+        "productCategory": "Hainbuche",
+        "subCategories": []
+    },
+    {
+        "key": "gelbe scheinzypressen",
+        "name": "Gelbe Scheinzypressen",
+        "slug": "gelbe-scheinzypressen",
+        "productCategory": "Gelbe Scheinzypressen",
+        "subCategories": []
+    },
+    {
+        "key": "kirschlorbeer herbergii",
+        "name": "Kirschlorbeer Herbergii",
+        "slug": "kirschlorbeer-herbergii",
+        "productCategory": "Kirschlorbeer Herbergii",
+        "subCategories": []
+    },
+    {
+        "key": "weitere heckenpflanzen",
+        "name": "Weitere Heckenpflanzen",
+        "slug": "weitere-heckenpflanzen",
+        "productCategory": "Weitere Heckenpflanzen",
+        "subCategories": []
+    },
+    {
+        "key": "stechpalme (ilex)",
+        "name": "Stechpalme (Ilex)",
+        "slug": "stechpalme-ilex",
+        "productCategory": "Stechpalme (Ilex)",
+        "subCategories": []
+    },
+    {
+        "key": "weitere lebensbäume",
+        "name": "Weitere Lebensbäume",
+        "slug": "weitere-lebensbaume",
+        "productCategory": "Weitere Lebensbäume",
+        "subCategories": []
+    },
+    {
+        "key": "kletterpflanzen",
+        "name": "Kletterpflanzen",
+        "slug": "kletterpflanzen",
+        "productCategory": "Kletterpflanzen",
+        "subCategories": []
+    },
+    {
+        "key": "waldrebe (clematis)",
+        "name": "Waldrebe (Clematis)",
+        "slug": "waldrebe-clematis",
+        "productCategory": "Waldrebe (Clematis)",
+        "subCategories": []
+    },
+    {
+        "key": "blauregen (wisteria)",
+        "name": "Blauregen (Wisteria)",
+        "slug": "blauregen-wisteria",
+        "productCategory": "Blauregen (Wisteria)",
+        "subCategories": []
+    },
+    {
+        "key": "trompetenblume (campsis)",
+        "name": "Trompetenblume (Campsis)",
+        "slug": "trompetenblume-campsis",
+        "productCategory": "Trompetenblume (Campsis)",
+        "subCategories": []
+    },
+    {
+        "key": "efeu (hedera helix)",
+        "name": "Efeu (Hedera helix)",
+        "slug": "efeu-hedera-helix",
+        "productCategory": "Efeu (Hedera helix)",
+        "subCategories": []
+    },
+    {
+        "key": "hortensie",
+        "name": "Hortensie",
+        "slug": "hortensie",
+        "productCategory": "Hortensie",
+        "subCategories": []
+    },
+    {
+        "key": "kletterhortensie",
+        "name": "Kletterhortensie",
+        "slug": "kletterhortensie",
+        "productCategory": "Kletterhortensie",
+        "subCategories": []
+    },
+    {
+        "key": "weitere kletterpflanzen",
+        "name": "Weitere Kletterpflanzen",
+        "slug": "weitere-kletterpflanzen",
+        "productCategory": "Weitere Kletterpflanzen",
+        "subCategories": []
+    },
+    {
+        "key": "geißblatt (jelängerjelieber)",
+        "name": "Geißblatt (Jelängerjelieber)",
+        "slug": "geissblatt-jelangerjelieber",
+        "productCategory": "Geißblatt (Jelängerjelieber)",
+        "subCategories": []
+    },
+    {
+        "key": "sommerbepflanzung",
+        "name": "Sommerbepflanzung",
+        "slug": "sommerbepflanzung",
+        "productCategory": "Sommerbepflanzung",
+        "subCategories": []
+    },
+    {
+        "key": "stehpflanzen",
+        "name": "Stehpflanzen",
+        "slug": "stehpflanzen",
+        "productCategory": "Stehpflanzen",
+        "subCategories": []
+    },
+    {
+        "key": "bauernhortensie",
+        "name": "Bauernhortensie",
+        "slug": "bauernhortensie",
+        "productCategory": "Bauernhortensie",
+        "subCategories": []
+    },
+    {
+        "key": "hängepflanzen",
+        "name": "Hängepflanzen",
+        "slug": "hangepflanzen",
+        "productCategory": "Hängepflanzen",
+        "subCategories": []
+    },
+    {
+        "key": "blühende kübelpflanzen",
+        "name": "Blühende Kübelpflanzen",
+        "slug": "bluhende-kubelpflanzen",
+        "productCategory": "Blühende Kübelpflanzen",
+        "subCategories": []
+    },
+    {
+        "key": "kriechspindel",
+        "name": "Kriechspindel",
+        "slug": "kriechspindel",
+        "productCategory": "Kriechspindel",
+        "subCategories": []
+    },
+    {
+        "key": "rhododendren & azaleen",
+        "name": "Rhododendren & Azaleen",
+        "slug": "rhododendren-azaleen",
+        "productCategory": "Rhododendren & Azaleen",
+        "subCategories": []
+    },
+    {
+        "key": "rhododendren",
+        "name": "Rhododendren",
+        "slug": "rhododendren",
+        "productCategory": "Rhododendren",
+        "subCategories": []
+    },
+    {
+        "key": "prachtkerze",
+        "name": "Prachtkerze",
+        "slug": "prachtkerze",
+        "productCategory": "Prachtkerze",
+        "subCategories": []
+    },
+    {
+        "key": "flieder",
+        "name": "Flieder",
+        "slug": "flieder",
+        "productCategory": "Flieder",
+        "subCategories": []
+    },
+    {
+        "key": "zwergflieder",
+        "name": "Zwergflieder",
+        "slug": "zwergflieder",
+        "productCategory": "Zwergflieder",
+        "subCategories": []
+    },
+    {
+        "key": "weitere stauden",
+        "name": "Weitere Stauden",
+        "slug": "weitere-stauden",
+        "productCategory": "Weitere Stauden",
+        "subCategories": []
+    },
+    {
+        "key": "frühjahrsbepflanzung",
+        "name": "Frühjahrsbepflanzung",
+        "slug": "fruhjahrsbepflanzung",
+        "productCategory": "Frühjahrsbepflanzung",
+        "subCategories": []
+    },
+    {
+        "key": "prachtspiere (astilbe)",
+        "name": "Prachtspiere (Astilbe)",
+        "slug": "prachtspiere-astilbe",
+        "productCategory": "Prachtspiere (Astilbe)",
+        "subCategories": []
+    },
+    {
+        "key": "rispenhortensie",
+        "name": "Rispenhortensie",
+        "slug": "rispenhortensie",
+        "productCategory": "Rispenhortensie",
+        "subCategories": []
+    },
+    {
+        "key": "ahorn",
+        "name": "Ahorn",
+        "slug": "ahorn",
+        "productCategory": "Ahorn",
+        "subCategories": []
+    },
+    {
+        "key": "dickmännchen (pachysandra)",
+        "name": "Dickmännchen (Pachysandra)",
+        "slug": "dickmannchen-pachysandra",
+        "productCategory": "Dickmännchen (Pachysandra)",
+        "subCategories": []
+    },
+    {
+        "key": "kräuter",
+        "name": "Kräuter",
+        "slug": "krauter",
+        "productCategory": "Kräuter",
+        "subCategories": []
+    },
+    {
+        "key": "küchenkräuter",
+        "name": "Küchenkräuter",
+        "slug": "kuchenkrauter",
+        "productCategory": "Küchenkräuter",
+        "subCategories": []
+    },
+    {
+        "key": "beerensträucher",
+        "name": "Beerensträucher",
+        "slug": "beerenstraucher",
+        "productCategory": "Beerensträucher",
+        "subCategories": []
+    },
+    {
+        "key": "johannisbeeren",
+        "name": "Johannisbeeren",
+        "slug": "johannisbeeren",
+        "productCategory": "Johannisbeeren",
+        "subCategories": []
+    },
+    {
+        "key": "himbeeren",
+        "name": "Himbeeren",
+        "slug": "himbeeren",
+        "productCategory": "Himbeeren",
+        "subCategories": []
+    },
+    {
+        "key": "weitere kräuter",
+        "name": "Weitere Kräuter",
+        "slug": "weitere-krauter",
+        "productCategory": "Weitere Kräuter",
+        "subCategories": []
+    },
+    {
+        "key": "buchsbaum",
+        "name": "Buchsbaum",
+        "slug": "buchsbaum",
+        "productCategory": "Buchsbaum",
+        "subCategories": []
+    },
+    {
+        "key": "pampasgras",
+        "name": "Pampasgras",
+        "slug": "pampasgras",
+        "productCategory": "Pampasgras",
+        "subCategories": []
+    },
+    {
+        "key": "ehrenpreis",
+        "name": "Ehrenpreis",
+        "slug": "ehrenpreis",
+        "productCategory": "Ehrenpreis",
+        "subCategories": []
+    },
+    {
+        "key": "fetthenne (sedum)",
+        "name": "Fetthenne (Sedum)",
+        "slug": "fetthenne-sedum",
+        "productCategory": "Fetthenne (Sedum)",
+        "subCategories": []
+    },
+    {
+        "key": "katzenminze",
+        "name": "Katzenminze",
+        "slug": "katzenminze",
+        "productCategory": "Katzenminze",
+        "subCategories": []
+    },
+    {
+        "key": "flammenblume (phlox)",
+        "name": "Flammenblume (Phlox)",
+        "slug": "flammenblume-phlox",
+        "productCategory": "Flammenblume (Phlox)",
+        "subCategories": []
+    },
+    {
+        "key": "herbst-anemone",
+        "name": "Herbst-Anemone",
+        "slug": "herbst-anemone",
+        "productCategory": "Herbst-Anemone",
+        "subCategories": []
+    },
+    {
+        "key": "blaukissen",
+        "name": "Blaukissen",
+        "slug": "blaukissen",
+        "productCategory": "Blaukissen",
+        "subCategories": []
+    },
+    {
+        "key": "sonnenhut",
+        "name": "Sonnenhut",
+        "slug": "sonnenhut",
+        "productCategory": "Sonnenhut",
+        "subCategories": []
+    },
+    {
+        "key": "stockrose",
+        "name": "Stockrose",
+        "slug": "stockrose",
+        "productCategory": "Stockrose",
+        "subCategories": []
+    },
+    {
+        "key": "aster",
+        "name": "Aster",
+        "slug": "aster",
+        "productCategory": "Aster",
+        "subCategories": []
+    },
+    {
+        "key": "fingerhut",
+        "name": "Fingerhut",
+        "slug": "fingerhut",
+        "productCategory": "Fingerhut",
+        "subCategories": []
+    },
+    {
+        "key": "glockenblume (campanula)",
+        "name": "Glockenblume (Campanula)",
+        "slug": "glockenblume-campanula",
+        "productCategory": "Glockenblume (Campanula)",
+        "subCategories": []
+    },
+    {
+        "key": "hauswurz (sempervivum)",
+        "name": "Hauswurz (Sempervivum)",
+        "slug": "hauswurz-sempervivum",
+        "productCategory": "Hauswurz (Sempervivum)",
+        "subCategories": []
+    },
+    {
+        "key": "rittersporn (delphinium)",
+        "name": "Rittersporn (Delphinium)",
+        "slug": "rittersporn-delphinium",
+        "productCategory": "Rittersporn (Delphinium)",
+        "subCategories": []
+    },
+    {
+        "key": "funkie (hosta)",
+        "name": "Funkie (Hosta)",
+        "slug": "funkie-hosta",
+        "productCategory": "Funkie (Hosta)",
+        "subCategories": []
+    },
+    {
+        "key": "blutweiderich",
+        "name": "Blutweiderich",
+        "slug": "blutweiderich",
+        "productCategory": "Blutweiderich",
+        "subCategories": []
+    },
+    {
+        "key": "storchschnabel (geranium)",
+        "name": "Storchschnabel (Geranium)",
+        "slug": "storchschnabel-geranium",
+        "productCategory": "Storchschnabel (Geranium)",
+        "subCategories": []
+    },
+    {
+        "key": "tränendes herz",
+        "name": "Tränendes Herz",
+        "slug": "tranendes-herz",
+        "productCategory": "Tränendes Herz",
+        "subCategories": []
+    },
+    {
+        "key": "fackellilie",
+        "name": "Fackellilie",
+        "slug": "fackellilie",
+        "productCategory": "Fackellilie",
+        "subCategories": []
+    },
+    {
+        "key": "mädchenauge (coreopsis)",
+        "name": "Mädchenauge (Coreopsis)",
+        "slug": "madchenauge-coreopsis",
+        "productCategory": "Mädchenauge (Coreopsis)",
+        "subCategories": []
+    },
+    {
+        "key": "bartnelke",
+        "name": "Bartnelke",
+        "slug": "bartnelke",
+        "productCategory": "Bartnelke",
+        "subCategories": []
+    },
+    {
+        "key": "kirschlorbeer genolia",
+        "name": "Kirschlorbeer Genolia",
+        "slug": "kirschlorbeer-genolia",
+        "productCategory": "Kirschlorbeer Genolia",
+        "subCategories": []
+    },
+    {
+        "key": "edelflieder",
+        "name": "Edelflieder",
+        "slug": "edelflieder",
+        "productCategory": "Edelflieder",
+        "subCategories": []
+    },
+    {
+        "key": "deutzie",
+        "name": "Deutzie",
+        "slug": "deutzie",
+        "productCategory": "Deutzie",
+        "subCategories": []
+    },
+    {
+        "key": "schmetterlingsflieder",
+        "name": "Schmetterlingsflieder",
+        "slug": "schmetterlingsflieder",
+        "productCategory": "Schmetterlingsflieder",
+        "subCategories": []
+    },
+    {
+        "key": "gemüsesamen",
+        "name": "Gemüsesamen",
+        "slug": "gemusesamen",
+        "productCategory": "Gemüsesamen",
+        "subCategories": []
+    },
+    {
+        "key": "azalee",
+        "name": "Azalee",
+        "slug": "azalee",
+        "productCategory": "Azalee",
+        "subCategories": []
+    },
+    {
+        "key": "japanische stechpalme (ilex crenata)",
+        "name": "Japanische Stechpalme (Ilex crenata)",
+        "slug": "japanische-stechpalme-ilex-crenata",
+        "productCategory": "Japanische Stechpalme (Ilex crenata)",
+        "subCategories": []
+    },
+    {
+        "key": "koniferen",
+        "name": "Koniferen",
+        "slug": "koniferen",
+        "productCategory": "Koniferen",
+        "subCategories": []
+    },
+    {
+        "key": "wacholder",
+        "name": "Wacholder",
+        "slug": "wacholder",
+        "productCategory": "Wacholder",
+        "subCategories": []
+    },
+    {
+        "key": "zwergkoniferen",
+        "name": "Zwergkoniferen",
+        "slug": "zwergkoniferen",
+        "productCategory": "Zwergkoniferen",
+        "subCategories": []
+    },
+    {
+        "key": "lavendelheide (pieris)",
+        "name": "Lavendelheide (Pieris)",
+        "slug": "lavendelheide-pieris",
+        "productCategory": "Lavendelheide (Pieris)",
+        "subCategories": []
+    },
+    {
+        "key": "weitere koniferen",
+        "name": "Weitere Koniferen",
+        "slug": "weitere-koniferen",
+        "productCategory": "Weitere Koniferen",
+        "subCategories": []
+    },
+    {
+        "key": "weitere flieder",
+        "name": "Weitere Flieder",
+        "slug": "weitere-flieder",
+        "productCategory": "Weitere Flieder",
+        "subCategories": []
+    },
+    {
+        "key": "schneeball (viburnum)",
+        "name": "Schneeball (Viburnum)",
+        "slug": "schneeball-viburnum",
+        "productCategory": "Schneeball (Viburnum)",
+        "subCategories": []
+    },
+    {
+        "key": "zypressen",
+        "name": "Zypressen",
+        "slug": "zypressen",
+        "productCategory": "Zypressen",
+        "subCategories": []
+    },
+    {
+        "key": "fichte",
+        "name": "Fichte",
+        "slug": "fichte",
+        "productCategory": "Fichte",
+        "subCategories": []
+    },
+    {
+        "key": "eibisch (hibiskus)",
+        "name": "Eibisch (Hibiskus)",
+        "slug": "eibisch-hibiskus",
+        "productCategory": "Eibisch (Hibiskus)",
+        "subCategories": []
+    },
+    {
+        "key": "bepflanzte schalen für außen",
+        "name": "Bepflanzte Schalen für außen",
+        "slug": "bepflanzte-schalen-fur-aussen",
+        "productCategory": "Bepflanzte Schalen für außen",
+        "subCategories": []
+    },
+    {
+        "key": "weitere sommerpflanzen",
+        "name": "Weitere Sommerpflanzen",
+        "slug": "weitere-sommerpflanzen",
+        "productCategory": "Weitere Sommerpflanzen",
+        "subCategories": []
+    },
+    {
+        "key": "herbstbepflanzung",
+        "name": "Herbstbepflanzung",
+        "slug": "herbstbepflanzung",
+        "productCategory": "Herbstbepflanzung",
+        "subCategories": []
+    },
+    {
+        "key": "chrysanthemen",
+        "name": "Chrysanthemen",
+        "slug": "chrysanthemen",
+        "productCategory": "Chrysanthemen",
+        "subCategories": []
+    },
+    {
+        "key": "weitere herbstpflanzen",
+        "name": "Weitere Herbstpflanzen",
+        "slug": "weitere-herbstpflanzen",
+        "productCategory": "Weitere Herbstpflanzen",
+        "subCategories": []
+    },
+    {
+        "key": "kiefer",
+        "name": "Kiefer",
+        "slug": "kiefer",
+        "productCategory": "Kiefer",
+        "subCategories": []
+    },
+    {
+        "key": "spindelstrauch (euonymus)",
+        "name": "Spindelstrauch (Euonymus)",
+        "slug": "spindelstrauch-euonymus",
+        "productCategory": "Spindelstrauch (Euonymus)",
+        "subCategories": []
+    },
+    {
+        "key": "weitere hortensien",
+        "name": "Weitere Hortensien",
+        "slug": "weitere-hortensien",
+        "productCategory": "Weitere Hortensien",
+        "subCategories": []
+    },
+    {
+        "key": "buchsbaumersatz",
+        "name": "Buchsbaumersatz",
+        "slug": "buchsbaumersatz",
+        "productCategory": "Buchsbaumersatz",
+        "subCategories": []
+    },
+    {
+        "key": "weitere bodendecker",
+        "name": "Weitere Bodendecker",
+        "slug": "weitere-bodendecker",
+        "productCategory": "Weitere Bodendecker",
+        "subCategories": []
+    },
+    {
+        "key": "zwergmispel (cotoneaster)",
+        "name": "Zwergmispel (Cotoneaster)",
+        "slug": "zwergmispel-cotoneaster",
+        "productCategory": "Zwergmispel (Cotoneaster)",
+        "subCategories": []
+    },
+    {
+        "key": "scheinbeere (gaultheria)",
+        "name": "Scheinbeere (Gaultheria)",
+        "slug": "scheinbeere-gaultheria",
+        "productCategory": "Scheinbeere (Gaultheria)",
+        "subCategories": []
+    },
+    {
+        "key": "waldsteinia",
+        "name": "Waldsteinia",
+        "slug": "waldsteinia",
+        "productCategory": "Waldsteinia",
+        "subCategories": []
+    },
+    {
+        "key": "rutenhirse",
+        "name": "Rutenhirse",
+        "slug": "rutenhirse",
+        "productCategory": "Rutenhirse",
+        "subCategories": []
+    },
+    {
+        "key": "blauschwingel",
+        "name": "Blauschwingel",
+        "slug": "blauschwingel",
+        "productCategory": "Blauschwingel",
+        "subCategories": []
+    },
+    {
+        "key": "segge (carex)",
+        "name": "Segge (Carex)",
+        "slug": "segge-carex",
+        "productCategory": "Segge (Carex)",
+        "subCategories": []
+    },
+    {
+        "key": "pfeifengras",
+        "name": "Pfeifengras",
+        "slug": "pfeifengras",
+        "productCategory": "Pfeifengras",
+        "subCategories": []
+    },
+    {
+        "key": "hartriegel",
+        "name": "Hartriegel",
+        "slug": "hartriegel",
+        "productCategory": "Hartriegel",
+        "subCategories": []
+    },
+    {
+        "key": "purpurglöckchen (heuchera)",
+        "name": "Purpurglöckchen (Heuchera)",
+        "slug": "purpurglockchen-heuchera",
+        "productCategory": "Purpurglöckchen (Heuchera)",
+        "subCategories": []
+    },
+    {
+        "key": "rosen",
+        "name": "Rosen",
+        "slug": "rosen",
+        "productCategory": "Rosen",
+        "subCategories": []
+    },
+    {
+        "key": "beetrosen",
+        "name": "Beetrosen",
+        "slug": "beetrosen",
+        "productCategory": "Beetrosen",
+        "subCategories": []
+    },
+    {
+        "key": "bergenie",
+        "name": "Bergenie",
+        "slug": "bergenie",
+        "productCategory": "Bergenie",
+        "subCategories": []
+    },
+    {
+        "key": "margerite",
+        "name": "Margerite",
+        "slug": "margerite",
+        "productCategory": "Margerite",
+        "subCategories": []
+    },
+    {
+        "key": "blumensamen",
+        "name": "Blumensamen",
+        "slug": "blumensamen",
+        "productCategory": "Blumensamen",
+        "subCategories": []
+    },
+    {
+        "key": "weitere beerensträucher",
+        "name": "Weitere Beerensträucher",
+        "slug": "weitere-beerenstraucher",
+        "productCategory": "Weitere Beerensträucher",
+        "subCategories": []
+    },
+    {
+        "key": "kräutersamen",
+        "name": "Kräutersamen",
+        "slug": "krautersamen",
+        "productCategory": "Kräutersamen",
         "subCategories": []
     }
 ]
