@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kategorie/prachtspiere-astilbe", {data:[{_img:{}}],fetch:{},mutations:void 0});

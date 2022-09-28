@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/kategorie/weitere-hortensien", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/grow-by-obi-hortensie-bloombuster-hoehe-ca-30-40-cm-hydrangea-hybride-grow-by-obi-7301591-1.jpg":"\u002Fassets\u002Fimages\u002Fgrow-by-obi-hortensie-bloombuster-hoehe-ca-30-40-cm-hydrangea-hybride-grow-by-obi-7301591-1.webp"}}],fetch:{},mutations:void 0});

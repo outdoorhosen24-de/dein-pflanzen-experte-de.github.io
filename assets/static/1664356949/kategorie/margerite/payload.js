@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/kategorie/margerite", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/garten-margerite-topf-o-ca-19-cm-leucanthemum-sonstige-2167260-1.jpg":"\u002Fassets\u002Fimages\u002Fgarten-margerite-topf-o-ca-19-cm-leucanthemum-sonstige-2167260-1.webp"}}],fetch:{},mutations:void 0});

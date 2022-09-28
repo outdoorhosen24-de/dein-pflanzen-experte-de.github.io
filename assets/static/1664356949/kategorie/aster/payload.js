@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/kategorie/aster", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/obi-garten-aster-dunkle-schoene-violett-topf-o-ca-9-cm-x-9-cm-aster-obi-living-garden-2752988-1.jpg":"\u002Fassets\u002Fimages\u002Fobi-garten-aster-dunkle-schoene-violett-topf-o-ca-9-cm-x-9-cm-aster-obi-living-garden-2752988-1.webp"}}],fetch:{},mutations:void 0});

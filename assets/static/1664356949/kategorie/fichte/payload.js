@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/kategorie/fichte", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/obi-zuckerhutfichte-conica-hoehe-ca-20-30-cm-topf-ca-2-l-picea-obi-living-garden-2776516-1.jpg":"\u002Fassets\u002Fimages\u002Fobi-zuckerhutfichte-conica-hoehe-ca-20-30-cm-topf-ca-2-l-picea-obi-living-garden-2776516-1.webp"}}],fetch:{},mutations:void 0});

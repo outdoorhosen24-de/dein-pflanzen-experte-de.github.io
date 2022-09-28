@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/grow-by-obi", {data:[{_img:{}}],fetch:{},mutations:void 0});

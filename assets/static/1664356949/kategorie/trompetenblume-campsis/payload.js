@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/kategorie/trompetenblume-campsis", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/trompetenblume-pyramide-hoehe-ca-80-100-cm-topf-ca-6-l-campsis-sonstige-7306996-1.jpg":"\u002Fassets\u002Fimages\u002Ftrompetenblume-pyramide-hoehe-ca-80-100-cm-topf-ca-6-l-campsis-sonstige-7306996-1.webp"}}],fetch:{},mutations:void 0});

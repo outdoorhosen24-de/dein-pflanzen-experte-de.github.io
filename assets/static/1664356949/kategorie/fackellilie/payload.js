@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/kategorie/fackellilie", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/obi-garten-fackellilie-orange-topf-o-ca-9-cm-x-9-cm-kniphofia-obi-living-garden-2736171-1.jpg":"\u002Fassets\u002Fimages\u002Fobi-garten-fackellilie-orange-topf-o-ca-9-cm-x-9-cm-kniphofia-obi-living-garden-2736171-1.webp"}}],fetch:{},mutations:void 0});

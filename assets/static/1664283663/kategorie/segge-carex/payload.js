@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kategorie/segge-carex", {data:[{_img:{}}],fetch:{},mutations:void 0});

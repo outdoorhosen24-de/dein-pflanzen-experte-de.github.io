@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/kategorie/weitere-koniferen", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/obi-koreatanne-molli-hoehe-ca-10-20-cm-topf-ca-3-l-abies-obi-living-garden-2778082-1.jpg":"\u002Fassets\u002Fimages\u002Fobi-koreatanne-molli-hoehe-ca-10-20-cm-topf-ca-3-l-abies-obi-living-garden-2778082-1.webp"}}],fetch:{},mutations:void 0});

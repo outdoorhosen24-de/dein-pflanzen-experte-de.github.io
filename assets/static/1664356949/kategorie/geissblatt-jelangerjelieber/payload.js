@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/kategorie/geissblatt-jelangerjelieber", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/geiszblatt-bienenfreundlicher-schlinger-hoehe-ca-60-80-cm-topf-ca-2-l-sonstige-8766206-1.jpg":"\u002Fassets\u002Fimages\u002Fgeiszblatt-bienenfreundlicher-schlinger-hoehe-ca-60-80-cm-topf-ca-2-l-sonstige-8766206-1.webp"}}],fetch:{},mutations:void 0});

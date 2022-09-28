@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/kategorie/ehrenpreis", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/obi-ehrenpreis-blau-topf-o-ca-9-cm-x-9-cm-veronica-obi-living-garden-2734531-1.jpg":"\u002Fassets\u002Fimages\u002Fobi-ehrenpreis-blau-topf-o-ca-9-cm-x-9-cm-veronica-obi-living-garden-2734531-1.webp"}}],fetch:{},mutations:void 0});
