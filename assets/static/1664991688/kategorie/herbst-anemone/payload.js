@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kategorie/herbst-anemone", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/kiepenkerl-herbst-anemone-topf-o-ca-17-cm-anemone-japonica-kiepenkerl-5053319-1.jpg":"\u002Fassets\u002Fimages\u002Fkiepenkerl-herbst-anemone-topf-o-ca-17-cm-anemone-japonica-kiepenkerl-5053319-1.webp"}}],fetch:{},mutations:void 0});

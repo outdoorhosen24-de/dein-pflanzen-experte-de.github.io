@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kategorie/weitere-krauter", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/blu-bio-petersilie-krause-topf-o-ca-12-cm-petroselinum-blu-6282586-1.jpg":"\u002Fassets\u002Fimages\u002Fblu-bio-petersilie-krause-topf-o-ca-12-cm-petroselinum-blu-6282586-1.webp"}}],fetch:{},mutations:void 0});

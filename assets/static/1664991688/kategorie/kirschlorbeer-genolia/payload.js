@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kategorie/kirschlorbeer-genolia", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/kirschlorbeer-genolia-weisz-hoehe-ca-80-100-cm-topf-ca-75-l-prunus-sonstige-7613425-1.jpg":"\u002Fassets\u002Fimages\u002Fkirschlorbeer-genolia-weisz-hoehe-ca-80-100-cm-topf-ca-75-l-prunus-sonstige-7613425-1.webp"}}],fetch:{},mutations:void 0});

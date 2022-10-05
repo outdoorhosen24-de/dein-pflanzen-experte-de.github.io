@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kategorie/fingerhut", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/obi-fingerhut-rosa-topf-o-ca-19-cm-digitalis-obi-living-garden-3221322-1.jpg":"\u002Fassets\u002Fimages\u002Fobi-fingerhut-rosa-topf-o-ca-19-cm-digitalis-obi-living-garden-3221322-1.webp"}}],fetch:{},mutations:void 0});

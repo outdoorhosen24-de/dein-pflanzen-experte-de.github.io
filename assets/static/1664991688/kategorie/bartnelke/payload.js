@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kategorie/bartnelke", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/obi-bartnelke-topf-o-ca-19-cm-dianthus-obi-living-garden-3123551-1.jpg":"\u002Fassets\u002Fimages\u002Fobi-bartnelke-topf-o-ca-19-cm-dianthus-obi-living-garden-3123551-1.webp"}}],fetch:{},mutations:void 0});

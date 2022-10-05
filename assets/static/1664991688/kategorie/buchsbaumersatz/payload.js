@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kategorie/buchsbaumersatz", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/zwerg-rhododendron-bloombux-r-magenta-hoehe-ca-20-30-cm-topf-ca-2-l-sonstige-8727679-1.jpg":"\u002Fassets\u002Fimages\u002Fzwerg-rhododendron-bloombux-r-magenta-hoehe-ca-20-30-cm-topf-ca-2-l-sonstige-8727679-1.webp"}}],fetch:{},mutations:void 0});

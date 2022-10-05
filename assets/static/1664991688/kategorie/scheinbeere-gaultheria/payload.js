@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kategorie/scheinbeere-gaultheria", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/niedere-scheinbeere-xl-topf-o-ca-13-cm-sonstige-5766803-1.jpg":"\u002Fassets\u002Fimages\u002Fniedere-scheinbeere-xl-topf-o-ca-13-cm-sonstige-5766803-1.webp"}}],fetch:{},mutations:void 0});

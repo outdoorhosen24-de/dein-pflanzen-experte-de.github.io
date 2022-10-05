@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kategorie/rittersporn-delphinium", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/obi-rittersporn-topf-o-ca-19-cm-delphinium-cultorum-obi-living-garden-3222635-1.jpg":"\u002Fassets\u002Fimages\u002Fobi-rittersporn-topf-o-ca-19-cm-delphinium-cultorum-obi-living-garden-3222635-1.webp"}}],fetch:{},mutations:void 0});

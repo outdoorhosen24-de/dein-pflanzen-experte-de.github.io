@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kategorie/blutweiderich", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/obi-blut-weiderich-robin-rosa-topf-o-ca-13-cm-lythrum-obi-living-garden-3223005-1.jpg":"\u002Fassets\u002Fimages\u002Fobi-blut-weiderich-robin-rosa-topf-o-ca-13-cm-lythrum-obi-living-garden-3223005-1.webp"}}],fetch:{},mutations:void 0});

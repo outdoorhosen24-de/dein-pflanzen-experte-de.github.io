@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kategorie/weitere-heckenpflanzen", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/fingerstrauch-gelb-hoehe-ca-30-40-cm-topf-ca-3-l-potentilla-fructicosa-sonstige-8339723-1.jpg":"\u002Fassets\u002Fimages\u002Ffingerstrauch-gelb-hoehe-ca-30-40-cm-topf-ca-3-l-potentilla-fructicosa-sonstige-8339723-1.webp"}}],fetch:{},mutations:void 0});

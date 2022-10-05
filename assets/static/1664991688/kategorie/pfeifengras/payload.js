@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kategorie/pfeifengras", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/obi-pfeifengras-edith-dudszus-braun-topf-o-ca-23-cm-molinia-obi-living-garden-3583382-1.jpg":"\u002Fassets\u002Fimages\u002Fobi-pfeifengras-edith-dudszus-braun-topf-o-ca-23-cm-molinia-obi-living-garden-3583382-1.webp"}}],fetch:{},mutations:void 0});
