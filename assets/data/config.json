@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
-    "domain": "wassersport24.net",
-    "hostname": "https://wassersport24.net/",
-    "email": "wassersport24.net@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "configIsReady": true,
+    "domain": "dein-pflanzen-experte.de",
+    "hostname": "https://www.dein-pflanzen-experte.de/",
+    "email": "dein-pflanzen-experte.desurrealnetworks.io",
+    "organization": "dein-pflanzen-experte.de",
+    "logoText": "Dein-pflanzen-experte.de",
+    "title": "Pflanzen",
+    "subline": "Der Online Shop f\u00fcr Pflanzen",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -14,9 +14,27 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
+    "popularProducts": [
+        "4585691",
+        "2306884",
+        "4569620",
+        "2778090",
+        "3583622",
+        "5865100"
+    ],
+    "winnerProducts": [
+        "5857321",
+        "5921796",
+        "3328374"
+    ],
+    "featuredCategories": [
+        "Weitere Flieder",
+        "Kokardenblume",
+        "Herbst-Anemone",
+        "Bepflanzte Schalen f\u00fcr au\u00dfen",
+        "Kiefer",
+        "Weitere Stauden"
+    ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
     "checklist": [
@@ -28,37 +46,33 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Pflanzen",
-        "featureText": "Your featured text goes here",
+        "featureText": "In unserem Shop finden Sie alles rund um Pflanzen. Wir f\u00fchren eine gro\u00dfe Auswahl an verschiedenen Pflanzenarten und bieten Ihnen die M\u00f6glichkeit, Ihren Garten ganz nach Ihren W\u00fcnschen zu gestalten. Unsere erfahrenen Mitarbeiter beraten Sie gerne und helfen Ihnen dabei, die richtige Pflanze f\u00fcr Ihren Garten zu finden.",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex",
+            "title": "Pflanzenladen",
+            "metaDescription": "Pflanzen sind unsere Leidenschaft. In unserem Shop findest Du alles, was das Pflanzenherz begehrt - von sch\u00f6nen Blumen \u00fcber Gem\u00fcsepflanzen bis hin zu Obstb\u00e4umen.",
+            "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
+                    "title": "Pflanzen: Die gr\u00fcne Vielfalt unserer Erde",
+                    "text": "Pflanzen sind ein wesentlicher Bestandteil unserer Umwelt und spielen in vielen Bereichen unseres Lebens eine wichtige Rolle. Sie sind nicht nur wichtig f\u00fcr die Landschaftsgestaltung, sondern auch f\u00fcr die Produktion von Sauerstoff und Nahrung, die Beseitigung von Schadstoffen und die Regulierung des Klimas.\n\nPflanzen sind auch wichtig f\u00fcr die Tierwelt, da sie eine wichtige Nahrungsquelle darstellen. Viele Tiere ern\u00e4hren sich von den Bl\u00e4ttern, Fr\u00fcchten und Samen der Pflanzen und tragen so zur Verbreitung der Pflanzen bei.\n\nPflanzen sind auch ein wichtiger Teil der traditionellen Medizin und werden seit Jahrhunderten zur Behandlung von Krankheiten und Beschwerden eingesetzt. Viele der heute verwendeten Arzneimittel enthalten Pflanzenextrakte und sind daher auf Pflanzen angewiesen.\n\nPflanzen sind auch ein wichtiger Teil unserer Kultur und Traditionen. Sie spielen in vielen Religionen eine wichtige Rolle und sind in vielen Kulturen ein wesentlicher Bestandteil der Feste und Feierlichkeiten.\n\nPflanzen sind also nicht nur wichtig f\u00fcr die Umwelt, sondern auch f\u00fcr die Menschen. Sie sind ein wesentlicher Bestandteil unseres Lebens und unserer Kultur."
                 }
             ]
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Pflanzen-Shop: Dein Online-Shop f\u00fcr Pflanzen",
+            "metaDescription": "Pflanzen Shop - Hier findest du alles rund um Pflanzen!",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Pflanzenhersteller - Die besten Pflanzenhersteller",
+            "metaDescription": "Pflanzen ist ein deutscher Hersteller von hochwertigen Pflanzenprodukten.",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "Pflanzen f\u00fcr $PRODUKT",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die perfekte Pflanze f\u00fcr Ihren Garten. W\u00e4hlen Sie aus unserer gro\u00dfen Auswahl an $KATEGORIE.",
+        "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
@@ -72,9 +86,9 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "Pflanzen $KATEGORIE \u2013 Alles \u00fcber die gr\u00fcne Welt",
+        "defaultMetaDescription": "$KATEGORIE: Pflanzen f\u00fcr jeden Geschmack - Jetzt st\u00f6bern und die perfekte Pflanze f\u00fcr Ihr Zuhause finden!",
+        "defaultRobots": "index, follow",
         "categories": [
             {
                 "key": "sporthosen",
@@ -100,8 +114,8 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultMetaDescription": "$HERSTELLER ist eine Marke f\u00fcr Pflanzen. Wir bieten eine gro\u00dfe Auswahl an Pflanzen f\u00fcr jeden Geschmack.",
+        "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
@@ -118,26 +132,30 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "Pflanzen",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "Pflanzen Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
+            "linkTitle": "Pflanzen Marken",
             "publish": true
         },
         {
             "title": "Kontakt",
             "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
+            "linkTitle": "Kontakt",
             "publish": false
         }
-    ]
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
+    }
 }
