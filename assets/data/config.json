@@ -1,12 +1,12 @@
 {
-    "configIsReady": true,
+    "configIsReady": false,
     "domain": "dein-pflanzen-experte.de",
     "hostname": "https://www.dein-pflanzen-experte.de/",
     "email": "dein-pflanzen-experte.desurrealnetworks.io",
     "organization": "dein-pflanzen-experte.de",
     "logoText": "Dein-pflanzen-experte.de",
     "title": "Pflanzen",
-    "subline": "Der Online Shop f\u00fcr Pflanzen",
+    "subline": "Der Online Shop für Pflanzen",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -31,7 +31,7 @@
         "Weitere Flieder",
         "Kokardenblume",
         "Herbst-Anemone",
-        "Bepflanzte Schalen f\u00fcr au\u00dfen",
+        "Bepflanzte Schalen für außen",
         "Kiefer",
         "Weitere Stauden"
     ],
@@ -46,20 +46,20 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Pflanzen",
-        "featureText": "In unserem Shop finden Sie alles rund um Pflanzen. Wir f\u00fchren eine gro\u00dfe Auswahl an verschiedenen Pflanzenarten und bieten Ihnen die M\u00f6glichkeit, Ihren Garten ganz nach Ihren W\u00fcnschen zu gestalten. Unsere erfahrenen Mitarbeiter beraten Sie gerne und helfen Ihnen dabei, die richtige Pflanze f\u00fcr Ihren Garten zu finden.",
+        "featureText": "In unserem Shop finden Sie alles rund um Pflanzen. Wir führen eine große Auswahl an verschiedenen Pflanzenarten und bieten Ihnen die Möglichkeit, Ihren Garten ganz nach Ihren Wünschen zu gestalten. Unsere erfahrenen Mitarbeiter beraten Sie gerne und helfen Ihnen dabei, die richtige Pflanze für Ihren Garten zu finden.",
         "index": {
             "title": "Pflanzenladen",
-            "metaDescription": "Pflanzen sind unsere Leidenschaft. In unserem Shop findest Du alles, was das Pflanzenherz begehrt - von sch\u00f6nen Blumen \u00fcber Gem\u00fcsepflanzen bis hin zu Obstb\u00e4umen.",
+            "metaDescription": "Pflanzen sind unsere Leidenschaft. In unserem Shop findest Du alles, was das Pflanzenherz begehrt - von schönen Blumen über Gemüsepflanzen bis hin zu Obstbäumen.",
             "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Pflanzen: Die gr\u00fcne Vielfalt unserer Erde",
-                    "text": "Pflanzen sind ein wesentlicher Bestandteil unserer Umwelt und spielen in vielen Bereichen unseres Lebens eine wichtige Rolle. Sie sind nicht nur wichtig f\u00fcr die Landschaftsgestaltung, sondern auch f\u00fcr die Produktion von Sauerstoff und Nahrung, die Beseitigung von Schadstoffen und die Regulierung des Klimas.\n\nPflanzen sind auch wichtig f\u00fcr die Tierwelt, da sie eine wichtige Nahrungsquelle darstellen. Viele Tiere ern\u00e4hren sich von den Bl\u00e4ttern, Fr\u00fcchten und Samen der Pflanzen und tragen so zur Verbreitung der Pflanzen bei.\n\nPflanzen sind auch ein wichtiger Teil der traditionellen Medizin und werden seit Jahrhunderten zur Behandlung von Krankheiten und Beschwerden eingesetzt. Viele der heute verwendeten Arzneimittel enthalten Pflanzenextrakte und sind daher auf Pflanzen angewiesen.\n\nPflanzen sind auch ein wichtiger Teil unserer Kultur und Traditionen. Sie spielen in vielen Religionen eine wichtige Rolle und sind in vielen Kulturen ein wesentlicher Bestandteil der Feste und Feierlichkeiten.\n\nPflanzen sind also nicht nur wichtig f\u00fcr die Umwelt, sondern auch f\u00fcr die Menschen. Sie sind ein wesentlicher Bestandteil unseres Lebens und unserer Kultur."
+                    "title": "Pflanzen: Die grüne Vielfalt unserer Erde",
+                    "text": "Pflanzen sind ein wesentlicher Bestandteil unserer Umwelt und spielen in vielen Bereichen unseres Lebens eine wichtige Rolle. Sie sind nicht nur wichtig für die Landschaftsgestaltung, sondern auch für die Produktion von Sauerstoff und Nahrung, die Beseitigung von Schadstoffen und die Regulierung des Klimas.\n\nPflanzen sind auch wichtig für die Tierwelt, da sie eine wichtige Nahrungsquelle darstellen. Viele Tiere ernähren sich von den Blättern, Früchten und Samen der Pflanzen und tragen so zur Verbreitung der Pflanzen bei.\n\nPflanzen sind auch ein wichtiger Teil der traditionellen Medizin und werden seit Jahrhunderten zur Behandlung von Krankheiten und Beschwerden eingesetzt. Viele der heute verwendeten Arzneimittel enthalten Pflanzenextrakte und sind daher auf Pflanzen angewiesen.\n\nPflanzen sind auch ein wichtiger Teil unserer Kultur und Traditionen. Sie spielen in vielen Religionen eine wichtige Rolle und sind in vielen Kulturen ein wesentlicher Bestandteil der Feste und Feierlichkeiten.\n\nPflanzen sind also nicht nur wichtig für die Umwelt, sondern auch für die Menschen. Sie sind ein wesentlicher Bestandteil unseres Lebens und unserer Kultur."
                 }
             ]
         },
         "shop": {
-            "title": "Pflanzen-Shop: Dein Online-Shop f\u00fcr Pflanzen",
+            "title": "Pflanzen-Shop: Dein Online-Shop für Pflanzen",
             "metaDescription": "Pflanzen Shop - Hier findest du alles rund um Pflanzen!",
             "robots": "index, follow"
         },
@@ -70,24 +70,24 @@
         }
     },
     "productSeo": {
-        "defaultTitle": "Pflanzen f\u00fcr $PRODUKT",
-        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die perfekte Pflanze f\u00fcr Ihren Garten. W\u00e4hlen Sie aus unserer gro\u00dfen Auswahl an $KATEGORIE.",
+        "defaultTitle": "Pflanzen für $PRODUKT",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die perfekte Pflanze für Ihren Garten. Wählen Sie aus unserer großen Auswahl an $KATEGORIE.",
         "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
                 "name": "Ortovox PALA PANTS Kletterhose",
                 "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
                     "robots": "index, follow"
                 }
             }
         ]
     },
     "categorySeo": {
-        "defaultTitle": "Pflanzen $KATEGORIE \u2013 Alles \u00fcber die gr\u00fcne Welt",
-        "defaultMetaDescription": "$KATEGORIE: Pflanzen f\u00fcr jeden Geschmack - Jetzt st\u00f6bern und die perfekte Pflanze f\u00fcr Ihr Zuhause finden!",
+        "defaultTitle": "Pflanzen $KATEGORIE – Alles über die grüne Welt",
+        "defaultMetaDescription": "$KATEGORIE: Pflanzen für jeden Geschmack - Jetzt stöbern und die perfekte Pflanze für Ihr Zuhause finden!",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -95,8 +95,8 @@
                 "slug": "sporthosen",
                 "name": "Sporthosen",
                 "seo": {
-                    "title": "Sporthosen g\u00fcnstig kaufen",
-                    "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
                     "robots": "index, follow",
                     "texts": [
                         {
@@ -114,15 +114,15 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "$HERSTELLER ist eine Marke f\u00fcr Pflanzen. Wir bieten eine gro\u00dfe Auswahl an Pflanzen f\u00fcr jeden Geschmack.",
+        "defaultMetaDescription": "$HERSTELLER ist eine Marke für Pflanzen. Wir bieten eine große Auswahl an Pflanzen für jeden Geschmack.",
         "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
                 "name": "Palm",
                 "seo": {
-                    "title": "Produkte von Palm g\u00fcnstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
                     "robots": "index, follow"
                 }
             }
