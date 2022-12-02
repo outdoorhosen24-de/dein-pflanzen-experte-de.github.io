@@ -51,12 +51,15 @@
             "title": "Pflanzenladen",
             "metaDescription": "Pflanzen sind unsere Leidenschaft. In unserem Shop findest Du alles, was das Pflanzenherz begehrt - von schönen Blumen über Gemüsepflanzen bis hin zu Obstbäumen.",
             "robots": "index, follow",
-            "texts": [
-                {
-                    "title": "Pflanzen: Die grüne Vielfalt unserer Erde",
-                    "text": "Pflanzen sind ein wesentlicher Bestandteil unserer Umwelt und spielen in vielen Bereichen unseres Lebens eine wichtige Rolle. Sie sind nicht nur wichtig für die Landschaftsgestaltung, sondern auch für die Produktion von Sauerstoff und Nahrung, die Beseitigung von Schadstoffen und die Regulierung des Klimas.\n\nPflanzen sind auch wichtig für die Tierwelt, da sie eine wichtige Nahrungsquelle darstellen. Viele Tiere ernähren sich von den Blättern, Früchten und Samen der Pflanzen und tragen so zur Verbreitung der Pflanzen bei.\n\nPflanzen sind auch ein wichtiger Teil der traditionellen Medizin und werden seit Jahrhunderten zur Behandlung von Krankheiten und Beschwerden eingesetzt. Viele der heute verwendeten Arzneimittel enthalten Pflanzenextrakte und sind daher auf Pflanzen angewiesen.\n\nPflanzen sind auch ein wichtiger Teil unserer Kultur und Traditionen. Sie spielen in vielen Religionen eine wichtige Rolle und sind in vielen Kulturen ein wesentlicher Bestandteil der Feste und Feierlichkeiten.\n\nPflanzen sind also nicht nur wichtig für die Umwelt, sondern auch für die Menschen. Sie sind ein wesentlicher Bestandteil unseres Lebens und unserer Kultur."
-                }
-            ]
+            "seotext": {
+                "published": false,
+                "content": [
+                    {
+                        "title": "Pflanzen: Die grüne Vielfalt unserer Erde",
+                        "text": "Pflanzen sind ein wesentlicher Bestandteil unserer Umwelt und spielen in vielen Bereichen unseres Lebens eine wichtige Rolle. Sie sind nicht nur wichtig für die Landschaftsgestaltung, sondern auch für die Produktion von Sauerstoff und Nahrung, die Beseitigung von Schadstoffen und die Regulierung des Klimas.\n\nPflanzen sind auch wichtig für die Tierwelt, da sie eine wichtige Nahrungsquelle darstellen. Viele Tiere ernähren sich von den Blättern, Früchten und Samen der Pflanzen und tragen so zur Verbreitung der Pflanzen bei.\n\nPflanzen sind auch ein wichtiger Teil der traditionellen Medizin und werden seit Jahrhunderten zur Behandlung von Krankheiten und Beschwerden eingesetzt. Viele der heute verwendeten Arzneimittel enthalten Pflanzenextrakte und sind daher auf Pflanzen angewiesen.\n\nPflanzen sind auch ein wichtiger Teil unserer Kultur und Traditionen. Sie spielen in vielen Religionen eine wichtige Rolle und sind in vielen Kulturen ein wesentlicher Bestandteil der Feste und Feierlichkeiten.\n\nPflanzen sind also nicht nur wichtig für die Umwelt, sondern auch für die Menschen. Sie sind ein wesentlicher Bestandteil unseres Lebens und unserer Kultur."
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Pflanzen-Shop: Dein Online-Shop für Pflanzen",
