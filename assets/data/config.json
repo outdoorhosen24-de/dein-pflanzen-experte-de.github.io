@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "dein-pflanzen-experte.de",
     "hostname": "https://www.dein-pflanzen-experte.de/",
     "email": "dein-pflanzen-experte.de@surrealnetworks.io",
     "organization": "dein-pflanzen-experte.de",
     "logoText": "Dein-pflanzen-experte.de",
     "title": "Pflanzen",
-    "subline": "Der Online Shop für Pflanzen",
+    "subline": "Der Online Shop für alle Pflanzenliebhaber",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -46,10 +46,10 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Pflanzen",
-        "featureText": "In unserem Shop finden Sie alles rund um Pflanzen. Wir führen eine große Auswahl an verschiedenen Pflanzenarten und bieten Ihnen die Möglichkeit, Ihren Garten ganz nach Ihren Wünschen zu gestalten. Unsere erfahrenen Mitarbeiter beraten Sie gerne und helfen Ihnen dabei, die richtige Pflanze für Ihren Garten zu finden.",
+        "featureText": "Hast du Lust, dir die Natur in die eigenen vier Wände zu holen? Dann bist Du bei uns goldrichtig! In unserem Shop findest du alles rund um Pflanzen, ob für den Garten oder die Wohnung. Unser Sortiment ist umfangreich und vielseitig. Um dir die Suche zu erleichtern, sind alle unsere Produkte übersichtlich in Kategorien eingeteilt. Wir wünschen Dir viel Spaß beim Stöbern!",
         "index": {
-            "title": "Pflanzenladen",
-            "metaDescription": "Pflanzen sind unsere Leidenschaft. In unserem Shop findest Du alles, was das Pflanzenherz begehrt - von schönen Blumen über Gemüsepflanzen bis hin zu Obstbäumen.",
+            "title": "Pflanzen für Zimmer, Balkon und Garten online kaufen",
+            "metaDescription": "Sämereien ~ Blumenzwiebeln ~ Heckenpflanzen ~ Bodendecker ~ Rollrasen ~ Stauden ~ Lupine ~ Gräser ~ Zimmer- & Kübelpflanzen ~ Palmen ~ Obst- & Gemüsepflanzen",
             "robots": "index, follow",
             "seotext": {
                 "published": false,
@@ -62,19 +62,19 @@
             }
         },
         "shop": {
-            "title": "Pflanzen-Shop: Dein Online-Shop für Pflanzen",
-            "metaDescription": "Pflanzen Shop - Hier findest du alles rund um Pflanzen!",
+            "title": "Der Shop für Pflanzen",
+            "metaDescription": "Riesen Auswahl. Top Qualität. Faire Preise. Einfach und schnell. Bequem in dein Zuhause liefern lassen. Jetzt online kaufen.  ",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Pflanzenhersteller - Die besten Pflanzenhersteller",
-            "metaDescription": "Pflanzen ist ein deutscher Hersteller von hochwertigen Pflanzenprodukten.",
+            "title": "Pflanzen von top Anbietern",
+            "metaDescription": "Bei uns findest Du hochwertige Markenprodukte in erstklassiger Qualität. Stöbere im Sortiment unserer Anbieter wie Blu, Helix, OBI, Kiepenkerl uvm.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "Pflanzen für $PRODUKT",
-        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist die perfekte Pflanze für Ihren Garten. Wählen Sie aus unserer großen Auswahl an $KATEGORIE.",
+        "defaultTitle": "$PRODUKT - online bestellen",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER - eine gute Wahl! Schau auch in weiteren Kategorien wie $KATEGORIE, um für dich die passende Pflanze zu finden.",
         "defaultRobots": "index, follow",
         "products": [
             {
@@ -89,8 +89,8 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "Pflanzen $KATEGORIE – Alles über die grüne Welt",
-        "defaultMetaDescription": "$KATEGORIE: Pflanzen für jeden Geschmack - Jetzt stöbern und die perfekte Pflanze für Ihr Zuhause finden!",
+        "defaultTitle": "$KATEGORIE – eine Auflistung der grünen Welt",
+        "defaultMetaDescription": "$KATEGORIE: übersichtlich dargestellte Auswahl an Saatgut sowie Pflanzen für innen und außen. Bei uns wird jeder fündig!",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -116,8 +116,8 @@
         ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "$HERSTELLER ist eine Marke für Pflanzen. Wir bieten eine große Auswahl an Pflanzen für jeden Geschmack.",
+        "defaultTitle": "$HERSTELLER - Qualität zum fairen Preis",
+        "defaultMetaDescription": "$HERSTELLER ist eine zuverlässige Marke für die Wahl deiner Pflanze. Tolle Qualität für Langlebigkeit in deinem grünen Zuhause!",
         "defaultRobots": "index, follow",
         "brands": [
             {
