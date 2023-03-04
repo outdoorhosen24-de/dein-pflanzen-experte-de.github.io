@@ -2,7 +2,7 @@
     {
         "key": "sämereien & blumenzwiebeln",
         "name": "Sämereien & Blumenzwiebeln",
-        "slug": "samereien-blumenzwiebeln",
+        "slug": "saemereien-blumenzwiebeln",
         "productCategory": "Sämereien & Blumenzwiebeln",
         "subCategories": []
     },
@@ -37,7 +37,7 @@
     {
         "key": "immergrün (vinca minor)",
         "name": "Immergrün (Vinca minor)",
-        "slug": "immergrun-vinca-minor",
+        "slug": "immergruen-vinca-minor",
         "productCategory": "Immergrün (Vinca minor)",
         "subCategories": []
     },
@@ -65,14 +65,14 @@
     {
         "key": "gräser",
         "name": "Gräser",
-        "slug": "graser",
+        "slug": "graeser",
         "productCategory": "Gräser",
         "subCategories": []
     },
     {
         "key": "weitere gräser",
         "name": "Weitere Gräser",
-        "slug": "weitere-graser",
+        "slug": "weitere-graeser",
         "productCategory": "Weitere Gräser",
         "subCategories": []
     },
@@ -114,14 +114,14 @@
     {
         "key": "grünpflanzen",
         "name": "Grünpflanzen",
-        "slug": "grunpflanzen",
+        "slug": "gruenpflanzen",
         "productCategory": "Grünpflanzen",
         "subCategories": []
     },
     {
         "key": "weitere grünpflanzen",
         "name": "Weitere Grünpflanzen",
-        "slug": "weitere-grunpflanzen",
+        "slug": "weitere-gruenpflanzen",
         "productCategory": "Weitere Grünpflanzen",
         "subCategories": []
     },
@@ -135,21 +135,21 @@
     {
         "key": "kübelpflanzen",
         "name": "Kübelpflanzen",
-        "slug": "kubelpflanzen",
+        "slug": "kuebelpflanzen",
         "productCategory": "Kübelpflanzen",
         "subCategories": []
     },
     {
         "key": "weitere kübelpflanzen",
         "name": "Weitere Kübelpflanzen",
-        "slug": "weitere-kubelpflanzen",
+        "slug": "weitere-kuebelpflanzen",
         "productCategory": "Weitere Kübelpflanzen",
         "subCategories": []
     },
     {
         "key": "bepflanzte schalen für innen",
         "name": "Bepflanzte Schalen für Innen",
-        "slug": "bepflanzte-schalen-fur-innen",
+        "slug": "bepflanzte-schalen-fuer-innen",
         "productCategory": "Bepflanzte Schalen für Innen",
         "subCategories": []
     },
@@ -177,21 +177,21 @@
     {
         "key": "obstpflanzen & gemüsepflanzen",
         "name": "Obstpflanzen & Gemüsepflanzen",
-        "slug": "obstpflanzen-gemusepflanzen",
+        "slug": "obstpflanzen-gemuesepflanzen",
         "productCategory": "Obstpflanzen & Gemüsepflanzen",
         "subCategories": []
     },
     {
         "key": "gemüsepflanzen",
         "name": "Gemüsepflanzen",
-        "slug": "gemusepflanzen",
+        "slug": "gemuesepflanzen",
         "productCategory": "Gemüsepflanzen",
         "subCategories": []
     },
     {
         "key": "weitere gemüsearten",
         "name": "Weitere Gemüsearten",
-        "slug": "weitere-gemusearten",
+        "slug": "weitere-gemuesearten",
         "productCategory": "Weitere Gemüsearten",
         "subCategories": []
     },
@@ -212,21 +212,21 @@
     {
         "key": "sträucher",
         "name": "Sträucher",
-        "slug": "straucher",
+        "slug": "straeucher",
         "productCategory": "Sträucher",
         "subCategories": []
     },
     {
         "key": "weitere sträucher",
         "name": "Weitere Sträucher",
-        "slug": "weitere-straucher",
+        "slug": "weitere-straeucher",
         "productCategory": "Weitere Sträucher",
         "subCategories": []
     },
     {
         "key": "drachenbäume (dracaena)",
         "name": "Drachenbäume (Dracaena)",
-        "slug": "drachenbaume-dracaena",
+        "slug": "drachenbaeume-dracaena",
         "productCategory": "Drachenbäume (Dracaena)",
         "subCategories": []
     },
@@ -373,7 +373,7 @@
     {
         "key": "weitere lebensbäume",
         "name": "Weitere Lebensbäume",
-        "slug": "weitere-lebensbaume",
+        "slug": "weitere-lebensbaeume",
         "productCategory": "Weitere Lebensbäume",
         "subCategories": []
     },
@@ -436,7 +436,7 @@
     {
         "key": "geißblatt (jelängerjelieber)",
         "name": "Geißblatt (Jelängerjelieber)",
-        "slug": "geissblatt-jelangerjelieber",
+        "slug": "geissblatt-jelaengerjelieber",
         "productCategory": "Geißblatt (Jelängerjelieber)",
         "subCategories": []
     },
@@ -464,14 +464,14 @@
     {
         "key": "hängepflanzen",
         "name": "Hängepflanzen",
-        "slug": "hangepflanzen",
+        "slug": "haengepflanzen",
         "productCategory": "Hängepflanzen",
         "subCategories": []
     },
     {
         "key": "blühende kübelpflanzen",
         "name": "Blühende Kübelpflanzen",
-        "slug": "bluhende-kubelpflanzen",
+        "slug": "bluehende-kuebelpflanzen",
         "productCategory": "Blühende Kübelpflanzen",
         "subCategories": []
     },
@@ -527,7 +527,7 @@
     {
         "key": "frühjahrsbepflanzung",
         "name": "Frühjahrsbepflanzung",
-        "slug": "fruhjahrsbepflanzung",
+        "slug": "fruehjahrsbepflanzung",
         "productCategory": "Frühjahrsbepflanzung",
         "subCategories": []
     },
@@ -555,28 +555,28 @@
     {
         "key": "dickmännchen (pachysandra)",
         "name": "Dickmännchen (Pachysandra)",
-        "slug": "dickmannchen-pachysandra",
+        "slug": "dickmaennchen-pachysandra",
         "productCategory": "Dickmännchen (Pachysandra)",
         "subCategories": []
     },
     {
         "key": "kräuter",
         "name": "Kräuter",
-        "slug": "krauter",
+        "slug": "kraeuter",
         "productCategory": "Kräuter",
         "subCategories": []
     },
     {
         "key": "küchenkräuter",
         "name": "Küchenkräuter",
-        "slug": "kuchenkrauter",
+        "slug": "kuechenkraeuter",
         "productCategory": "Küchenkräuter",
         "subCategories": []
     },
     {
         "key": "beerensträucher",
         "name": "Beerensträucher",
-        "slug": "beerenstraucher",
+        "slug": "beerenstraeucher",
         "productCategory": "Beerensträucher",
         "subCategories": []
     },
@@ -597,7 +597,7 @@
     {
         "key": "weitere kräuter",
         "name": "Weitere Kräuter",
-        "slug": "weitere-krauter",
+        "slug": "weitere-kraeuter",
         "productCategory": "Weitere Kräuter",
         "subCategories": []
     },
@@ -730,7 +730,7 @@
     {
         "key": "tränendes herz",
         "name": "Tränendes Herz",
-        "slug": "tranendes-herz",
+        "slug": "traenendes-herz",
         "productCategory": "Tränendes Herz",
         "subCategories": []
     },
@@ -744,7 +744,7 @@
     {
         "key": "mädchenauge (coreopsis)",
         "name": "Mädchenauge (Coreopsis)",
-        "slug": "madchenauge-coreopsis",
+        "slug": "maedchenauge-coreopsis",
         "productCategory": "Mädchenauge (Coreopsis)",
         "subCategories": []
     },
@@ -786,7 +786,7 @@
     {
         "key": "gemüsesamen",
         "name": "Gemüsesamen",
-        "slug": "gemusesamen",
+        "slug": "gemuesesamen",
         "productCategory": "Gemüsesamen",
         "subCategories": []
     },
@@ -877,7 +877,7 @@
     {
         "key": "bepflanzte schalen für außen",
         "name": "Bepflanzte Schalen für außen",
-        "slug": "bepflanzte-schalen-fur-aussen",
+        "slug": "bepflanzte-schalen-fuer-aussen",
         "productCategory": "Bepflanzte Schalen für außen",
         "subCategories": []
     },
@@ -1003,7 +1003,7 @@
     {
         "key": "purpurglöckchen (heuchera)",
         "name": "Purpurglöckchen (Heuchera)",
-        "slug": "purpurglockchen-heuchera",
+        "slug": "purpurgloeckchen-heuchera",
         "productCategory": "Purpurglöckchen (Heuchera)",
         "subCategories": []
     },
@@ -1045,14 +1045,14 @@
     {
         "key": "weitere beerensträucher",
         "name": "Weitere Beerensträucher",
-        "slug": "weitere-beerenstraucher",
+        "slug": "weitere-beerenstraeucher",
         "productCategory": "Weitere Beerensträucher",
         "subCategories": []
     },
     {
         "key": "kräutersamen",
         "name": "Kräutersamen",
-        "slug": "krautersamen",
+        "slug": "kraeutersamen",
         "productCategory": "Kräutersamen",
         "subCategories": []
     }
